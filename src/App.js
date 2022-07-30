@@ -1,6 +1,5 @@
-import logo from './logo.svg';
+
 import './App.css';
-import WalletCard from './Components/WalletCard';
 import Navbar from './Components/Navbar';
 import Banner from './Components/Banner';
 import TopCharacters from './Components/TopCharacters';
@@ -17,7 +16,6 @@ function App() {
     <Reviews/>
     <GetFreeTrail/>
     <Footer/>
-      <WalletCard/>
     </div>
   );
 }
